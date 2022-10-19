@@ -1,0 +1,15 @@
+site_name: Crypton Tool
+site_description: Crypton Tool é baseado no pacote cryptography.io e tem por objetivo disponibilizar métodos para cryptar arquivos e conteúdos, além de disponibilizar comandos CLI.
+site_url: https://crypton-tool.msbar.dev
+theme:
+  name: material
+markdown_extensions:
+  - pymdownx.betterem
+  - pymdownx.superfences
+  - markdown.extensions.footnotes
+  - markdown.extensions.attr_list
+  - markdown.extensions.def_list
+  - markdown.extensions.tables
+  - markdown.extensions.abbr
+  - markdown.extensions.md_in_html
+
